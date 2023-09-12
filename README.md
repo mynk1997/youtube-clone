@@ -1,4 +1,4 @@
-Live project link: https://magical-tartufo-261440.netlify.app/
+Live project link: https://my-youtube7.netlify.app/
 
 UI Framwork : React
 CSS Framework : Tailwind CSS
