@@ -6,7 +6,7 @@ import { cacheResults } from '../utils/searchSclice';
 
 const Head = () => {
   const dispatch =useDispatch();
-  const [searchQuery, setSearchQuery] = useState();
+  const [searchQuery, setSearchQuery] = useState("");
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestion] = useState(false);
 
