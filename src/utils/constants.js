@@ -5,6 +5,6 @@ export const YOUTUBE_VIDEOS_API =
   GOOGLE_API_KEY;
 
 export const YOUTUBE_SEARCH_API =
-  "https://proxy.cors.sh/http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
+  "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
 
 export const OFFSET_LIVE_CHAT=10
